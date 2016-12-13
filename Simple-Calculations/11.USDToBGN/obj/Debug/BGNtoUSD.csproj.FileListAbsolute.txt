@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\BGNtoUSD\bin\Debug\BGNtoUSD.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\BGNtoUSD\bin\Debug\BGNtoUSD.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\BGNtoUSD\bin\Debug\BGNtoUSD.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\BGNtoUSD\obj\Debug\BGNtoUSD.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\BGNtoUSD\obj\Debug\BGNtoUSD.pdb
