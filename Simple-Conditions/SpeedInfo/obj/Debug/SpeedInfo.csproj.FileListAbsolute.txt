@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\bin\Debug\SpeedInfo.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\SpeedInfo\obj\Debug\SpeedInfo.pdb

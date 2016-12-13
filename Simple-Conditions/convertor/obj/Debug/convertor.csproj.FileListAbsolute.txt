@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\convertor\bin\Debug\convertor.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\convertor\obj\Debug\convertor.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\convertor\obj\Debug\convertor.FormConverter.resources
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\convertor\obj\Debug\convertor.Properties.Resources.resources
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\convertor\obj\Debug\convertor.csproj.GenerateResource.Cache

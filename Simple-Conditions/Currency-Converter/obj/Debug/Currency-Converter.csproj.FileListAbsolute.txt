@@ -1,0 +1,9 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\bin\Debug\Currency-Converter.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\bin\Debug\Currency-Converter.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency_Converter.FormConverter.resources
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency-Converter.csproj.GenerateResource.Cache
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency-Converter.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Currency-Converter\obj\Debug\Currency-Converter.pdb
