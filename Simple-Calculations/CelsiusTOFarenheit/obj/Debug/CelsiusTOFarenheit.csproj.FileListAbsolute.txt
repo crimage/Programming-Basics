@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusTOFarenheit\bin\Debug\CelsiusTOFarenheit.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusTOFarenheit\bin\Debug\CelsiusTOFarenheit.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusTOFarenheit\bin\Debug\CelsiusTOFarenheit.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusTOFarenheit\obj\Debug\CelsiusTOFarenheit.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusTOFarenheit\obj\Debug\CelsiusTOFarenheit.pdb
