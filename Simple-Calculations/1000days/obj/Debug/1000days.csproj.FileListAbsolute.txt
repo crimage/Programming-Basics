@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\bin\Debug\1000days.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\bin\Debug\1000days.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\bin\Debug\1000days.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\obj\Debug\1000days.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\obj\Debug\1000days.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\1000days\obj\Debug\1000days.pdb
