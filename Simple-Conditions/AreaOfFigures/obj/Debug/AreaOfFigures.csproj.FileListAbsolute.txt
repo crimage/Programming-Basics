@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\AreaOfFigures.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\AreaOfFigures\obj\Debug\AreaOfFigures.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

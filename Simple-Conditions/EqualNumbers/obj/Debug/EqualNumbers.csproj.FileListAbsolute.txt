@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\bin\Debug\EqualNumbers.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\bin\Debug\EqualNumbers.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\bin\Debug\EqualNumbers.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\obj\Debug\EqualNumbers.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\obj\Debug\EqualNumbers.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EqualNumbers\obj\Debug\EqualNumbers.pdb

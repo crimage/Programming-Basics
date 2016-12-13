@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.pdb

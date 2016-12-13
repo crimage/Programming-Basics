@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\bin\Debug\timePlusSeconds.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\obj\Debug\timePlusSeconds.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\bin\Debug\timePlusSeconds.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\bin\Debug\timePlusSeconds.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\obj\Debug\timePlusSeconds.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\timePlusSeconds\obj\Debug\timePlusSeconds.pdb

@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\bin\Debug\metricsconversion.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\bin\Debug\metricsconversion.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\bin\Debug\metricsconversion.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\obj\Debug\metricsconversion.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\obj\Debug\metricsconversion.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\metricsconversion\obj\Debug\metricsconversion.pdb

@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\bin\Debug\bonuspoints.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\obj\Debug\bonuspoints.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\bin\Debug\bonuspoints.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\bin\Debug\bonuspoints.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\obj\Debug\bonuspoints.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\bonuspoints\obj\Debug\bonuspoints.pdb
