@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EvenODD\bin\Debug\EvenODD.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EvenODD\bin\Debug\EvenODD.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EvenODD\bin\Debug\EvenODD.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EvenODD\obj\Debug\EvenODD.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\EvenODD\obj\Debug\EvenODD.pdb

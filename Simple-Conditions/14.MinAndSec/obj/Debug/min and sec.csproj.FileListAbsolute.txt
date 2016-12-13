@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\bin\Debug\min and sec.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\bin\Debug\min and sec.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\bin\Debug\min and sec.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\obj\Debug\min and sec.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\obj\Debug\min and sec.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\min and sec\obj\Debug\min and sec.pdb
