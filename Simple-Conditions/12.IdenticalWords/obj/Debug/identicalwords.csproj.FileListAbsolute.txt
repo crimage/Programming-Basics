@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\bin\Debug\identicalwords.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\bin\Debug\identicalwords.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\bin\Debug\identicalwords.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\obj\Debug\identicalwords.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\obj\Debug\identicalwords.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\identicalwords\obj\Debug\identicalwords.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\bin\Debug\transportPrice.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\bin\Debug\transportPrice.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\bin\Debug\transportPrice.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\obj\Debug\transportPrice.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\obj\Debug\transportPrice.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\transportPrice\obj\Debug\transportPrice.pdb

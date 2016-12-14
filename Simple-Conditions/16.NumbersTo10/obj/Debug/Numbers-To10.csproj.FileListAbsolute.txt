@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Numbers-To10\bin\Debug\Numbers-To10.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Numbers-To10\bin\Debug\Numbers-To10.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Numbers-To10\bin\Debug\Numbers-To10.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Numbers-To10\obj\Debug\Numbers-To10.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Conditions\Numbers-To10\obj\Debug\Numbers-To10.pdb
