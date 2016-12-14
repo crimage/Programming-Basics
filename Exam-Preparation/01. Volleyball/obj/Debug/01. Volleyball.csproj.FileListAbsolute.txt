@@ -1,6 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\bin\Debug\_01.Volleyball.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\bin\Debug\_01.Volleyball.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\bin\Debug\_01.Volleyball.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\obj\Debug\01. Volleyball.csprojResolveAssemblyReference.cache
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\obj\Debug\_01.Volleyball.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Volleyball\obj\Debug\_01.Volleyball.pdb

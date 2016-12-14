@@ -1,5 +1,0 @@
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. Eclipse\bin\Debug\_03.Eclipse.exe.config
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. Eclipse\bin\Debug\_03.Eclipse.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. Eclipse\bin\Debug\_03.Eclipse.pdb
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. Eclipse\obj\Debug\_03.Eclipse.exe
-C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. Eclipse\obj\Debug\_03.Eclipse.pdb

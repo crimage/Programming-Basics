@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\08. SunGlasses\bin\Debug\_08.SunGlasses.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\08. SunGlasses\bin\Debug\_08.SunGlasses.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\08. SunGlasses\bin\Debug\_08.SunGlasses.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\08. SunGlasses\obj\Debug\_08.SunGlasses.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\08. SunGlasses\obj\Debug\_08.SunGlasses.pdb

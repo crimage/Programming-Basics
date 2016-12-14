@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\bin\Debug\_15.Rectangle.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\bin\Debug\_15.Rectangle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\bin\Debug\_15.Rectangle.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\obj\Debug\_15.Rectangle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\obj\Debug\_15.Rectangle.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\15. Rectangle\obj\Debug\15. Rectangle.csprojResolveAssemblyReference.cache

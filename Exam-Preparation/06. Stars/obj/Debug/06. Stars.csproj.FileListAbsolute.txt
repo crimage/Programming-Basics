@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\bin\Debug\_06.Stars.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\bin\Debug\_06.Stars.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\bin\Debug\_06.Stars.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\obj\Debug\06. Stars.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\obj\Debug\_06.Stars.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\06. Stars\obj\Debug\_06.Stars.pdb

@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\03.SquareOFstars\bin\Debug\03.SquareOFstars.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\03.SquareOFstars\bin\Debug\03.SquareOFstars.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\03.SquareOFstars\bin\Debug\03.SquareOFstars.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\03.SquareOFstars\obj\Debug\03.SquareOFstars.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\03.SquareOFstars\obj\Debug\03.SquareOFstars.pdb

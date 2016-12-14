@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\bin\Debug\_09.House.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\bin\Debug\_09.House.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\bin\Debug\_09.House.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\obj\Debug\09. House.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\obj\Debug\_09.House.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\09. House\obj\Debug\_09.House.pdb

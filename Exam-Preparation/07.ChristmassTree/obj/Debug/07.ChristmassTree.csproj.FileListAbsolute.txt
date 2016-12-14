@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\07.ChristmassTree\bin\Debug\07.ChristmassTree.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\07.ChristmassTree\bin\Debug\07.ChristmassTree.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\07.ChristmassTree\bin\Debug\07.ChristmassTree.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\07.ChristmassTree\obj\Debug\07.ChristmassTree.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\07.ChristmassTree\obj\Debug\07.ChristmassTree.pdb
