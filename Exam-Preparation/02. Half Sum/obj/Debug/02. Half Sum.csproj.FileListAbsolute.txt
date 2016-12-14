@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\bin\Debug\_02.Half_Sum.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\bin\Debug\_02.Half_Sum.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\bin\Debug\_02.Half_Sum.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\obj\Debug\_02.Half_Sum.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\obj\Debug\_02.Half_Sum.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\02. Half Sum\obj\Debug\02. Half Sum.csprojResolveAssemblyReference.cache

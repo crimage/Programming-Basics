@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\bin\Debug\16.Flower.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\bin\Debug\16.Flower.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\bin\Debug\16.Flower.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\obj\Debug\16.Flower.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\obj\Debug\16.Flower.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\16.Flower\obj\Debug\16.Flower.pdb

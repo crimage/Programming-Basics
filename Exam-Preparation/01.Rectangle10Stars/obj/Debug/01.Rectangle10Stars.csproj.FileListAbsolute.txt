@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\01.Rectangle10Stars\bin\Debug\01.Rectangle10Stars.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\01.Rectangle10Stars\bin\Debug\01.Rectangle10Stars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\01.Rectangle10Stars\bin\Debug\01.Rectangle10Stars.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\01.Rectangle10Stars\obj\Debug\01.Rectangle10Stars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\01.Rectangle10Stars\obj\Debug\01.Rectangle10Stars.pdb

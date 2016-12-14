@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\02.RectangleofNstars\bin\Debug\02.RectangleofNstars.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\02.RectangleofNstars\bin\Debug\02.RectangleofNstars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\02.RectangleofNstars\bin\Debug\02.RectangleofNstars.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\02.RectangleofNstars\obj\Debug\02.RectangleofNstars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\02.RectangleofNstars\obj\Debug\02.RectangleofNstars.pdb

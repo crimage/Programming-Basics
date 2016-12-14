@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\bin\Debug\_01.Work_Hours.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\bin\Debug\_01.Work_Hours.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\bin\Debug\_01.Work_Hours.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\obj\Debug\01. Work Hours.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\obj\Debug\_01.Work_Hours.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Work Hours\obj\Debug\_01.Work_Hours.pdb

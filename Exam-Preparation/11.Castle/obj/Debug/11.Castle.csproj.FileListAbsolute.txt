@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\bin\Debug\11.Castle.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\bin\Debug\11.Castle.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\bin\Debug\11.Castle.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\obj\Debug\11.Castle.csprojResolveAssemblyReference.cache
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\obj\Debug\11.Castle.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\11.Castle\obj\Debug\11.Castle.pdb

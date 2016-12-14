@@ -1,0 +1,5 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. SunglassesV1\bin\Debug\_03.SunglassesV1.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. SunglassesV1\bin\Debug\_03.SunglassesV1.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. SunglassesV1\bin\Debug\_03.SunglassesV1.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. SunglassesV1\obj\Debug\_03.SunglassesV1.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\03. SunglassesV1\obj\Debug\_03.SunglassesV1.pdb

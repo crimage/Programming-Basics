@@ -1,0 +1,6 @@
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\bin\Debug\_01.Joro_The_Football_Player.exe.config
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\bin\Debug\_01.Joro_The_Football_Player.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\bin\Debug\_01.Joro_The_Football_Player.pdb
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\obj\Debug\01. Joro The Football Player.csprojResolveAssemblyReference.cache
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\obj\Debug\_01.Joro_The_Football_Player.exe
+C:\Users\crimag3\Documents\Visual Studio 2015\Projects\SelfTraining\01. Joro The Football Player\obj\Debug\_01.Joro_The_Football_Player.pdb

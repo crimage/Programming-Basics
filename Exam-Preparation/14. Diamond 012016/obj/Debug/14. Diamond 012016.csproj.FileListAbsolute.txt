@@ -1,0 +1,6 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\bin\Debug\_14.Diamond_012016.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\bin\Debug\_14.Diamond_012016.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\bin\Debug\_14.Diamond_012016.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\obj\Debug\_14.Diamond_012016.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\obj\Debug\_14.Diamond_012016.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\14. Diamond 012016\obj\Debug\14. Diamond 012016.csprojResolveAssemblyReference.cache

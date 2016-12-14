@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\04.TriangleOFdollars\bin\Debug\04.TriangleOFdollars.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\04.TriangleOFdollars\bin\Debug\04.TriangleOFdollars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\04.TriangleOFdollars\bin\Debug\04.TriangleOFdollars.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\04.TriangleOFdollars\obj\Debug\04.TriangleOFdollars.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\04.TriangleOFdollars\obj\Debug\04.TriangleOFdollars.pdb

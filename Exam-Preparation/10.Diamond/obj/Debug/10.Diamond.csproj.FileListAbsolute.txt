@@ -1,0 +1,5 @@
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\10.Diamond\bin\Debug\10.Diamond.exe.config
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\10.Diamond\bin\Debug\10.Diamond.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\10.Diamond\bin\Debug\10.Diamond.pdb
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\10.Diamond\obj\Debug\10.Diamond.exe
+c:\users\crimag3\documents\visual studio 2015\Projects\SelfTraining\10.Diamond\obj\Debug\10.Diamond.pdb
