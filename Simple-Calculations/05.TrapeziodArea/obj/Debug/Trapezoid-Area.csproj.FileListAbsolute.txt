@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

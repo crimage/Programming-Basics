@@ -1,6 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\bin\Debug\Areaofrectangle.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\bin\Debug\Areaofrectangle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\bin\Debug\Areaofrectangle.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\obj\Debug\Areaofrectangle.csprojResolveAssemblyReference.cache
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\obj\Debug\Areaofrectangle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Areaofrectangle\obj\Debug\Areaofrectangle.pdb

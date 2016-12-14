@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\area.perimeter.circle\bin\Debug\area.perimeter.circle.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\area.perimeter.circle\bin\Debug\area.perimeter.circle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\area.perimeter.circle\bin\Debug\area.perimeter.circle.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\area.perimeter.circle\obj\Debug\area.perimeter.circle.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\area.perimeter.circle\obj\Debug\area.perimeter.circle.pdb

@@ -1,5 +1,0 @@
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Angle.and.radian\bin\Debug\Angle.and.radian.exe.config
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Angle.and.radian\bin\Debug\Angle.and.radian.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Angle.and.radian\bin\Debug\Angle.and.radian.pdb
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Angle.and.radian\obj\Debug\Angle.and.radian.exe
-c:\users\crimag3\documents\visual studio 2015\Projects\Simple-Calculations\Angle.and.radian\obj\Debug\Angle.and.radian.pdb
